@@ -1,3 +1,8 @@
+---
+layout: post
+title: Bot development with BotFramework!
+---
+
 # Setting up the bot
 
 ## Setup git repo
